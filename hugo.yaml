@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "/crime_icon.png"
 
   label:
-    text: "jasperbraack.dev"
+    text: "jasperbraack.dev ~ $"
     icon: /crime_icon.png
     iconHeight: 35
 
