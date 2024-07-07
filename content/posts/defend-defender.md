@@ -19,6 +19,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
+ShowCodeCopyButtons: true
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 ---
