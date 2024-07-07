@@ -44,15 +44,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/crime_icon.png"
+    favicon16x16: "/crime_icon.png"
+    favicon32x32: "/crime_icon.png"
+    apple_touch_icon: "/crime_icon.png"
+    safari_pinned_tab: "/crime_icon.png"
 
   label:
     text: "jasperbraack.dev"
-    icon: /apple-touch-icon.png
+    icon: /crime_icon.png
     iconHeight: 35
 
   # profile-mode
@@ -72,11 +72,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hey you \U0001F44B"
+    Title: "Bots, Malware, and Beyond"
     Content: >
-      Welcome to my blog, friends!
-
-      - I'm Jasper Braack, a software engineer currently finishing my Bachelor. I write about bots, malware and other things.
+      - Hi, I'm Jasper Braack. I'm a software engineer currently finishing my Bachelor's degree. In this blog, I write about bots, malware, and my thoughts.
     
 
   socialIcons:
@@ -84,6 +82,8 @@ params:
       url: "https://x.com/offsexurity"
     - name: github
       url: "https://github.com/0xagil"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jasper-braack-5b3b67278/"
     - name: instagram
       url: "https://instagram.com/jasper_lasse"
 
