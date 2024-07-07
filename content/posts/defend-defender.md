@@ -1,6 +1,6 @@
 ---
 title: "Defend Microsoft Defender"
-date: 2020-07-07T16:20:03+00:00
+date: 2024-07-07T16:20:03+00:00
 tags: ["Mircosoft Defender", "Security", "Windows", "Powershell"]
 author: "Me"
 showToc: true

@@ -1,6 +1,6 @@
 ---
 title: "whoami"
-date: 2020-07-07T15:44:03+00:00
+date: 2024-07-07T15:44:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
