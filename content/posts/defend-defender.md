@@ -27,32 +27,34 @@ Useful commands to defend Microsoft Defender
 
 <!--post-->
 
-## Factory Reset Microsoft Defender
+### Factory Reset Microsoft Defender
 
-<pre>
+```
 cmd /c "C:\Program Files\Windows Defender\MpCmdRun.exe" -RemoveDefinitions -All Set-MpPreference -DisableIOAVProtection $true
-</pre>
+```
 
 
-## Add an Exception to a Directory or Process
+### Add an Exception to a Directory or Process
 
-<pre>
+```
 Add-MpPreference -ExclusionPath "C:\"
 Add-MpPreference -ExclusionProcess "c:\internal\test.exe"
-</pre>
+```
 
-## Disable Real Time Protection
+### Disable Real Time Protection
 
-<pre>
+```
 Set-MpPreference -DisableRealtimeMonitoring $true
-</pre>
+```
 
-## Disable Cloud Protection
-<pre>
+### Disable Cloud Protection
+
+```
 Set-MpPreference -DisableBlockAtFirstSeen $true
-</pre>
+```
 
-## Disable Behavior Monitoring
-<pre>
+### Disable Behavior Monitoring
+
+```
 Set-MpPreference -DisableBehaviorMonitoring $true
-</pre>
+```
