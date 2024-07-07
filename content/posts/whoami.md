@@ -11,31 +11,29 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "About myself."
 canonicalURL: "https://jasperbraack.dev/whaomi"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-ShowRssButtonInSectionTermList: true
+ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Self motivation and introduction.
 
 <!--more-->
 
-## Headings
+## Motivation
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Last year I finished the OSCP certifiacte and currently I prepare myself for the OSEP certifcate. I am using this blog to document my journey and to share my knowledge with others. Further I am using this blog to document my personal projects and tools I am working on.
 
-## Paragraph
+## Introduction
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+I'm Jasper Braack, a security enthusiast from Germany, Berlin. After finishing my bachelor degree in Psychology I followed my passion for cyber security and started doing a bachelor in software engineering, at CODE University of Applied Sciences. Last year year I succeded in passing the OSCP certificate and currently I am preparing myself for the OSEP certificate. I love building Bots and automation tools.
