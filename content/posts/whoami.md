@@ -26,7 +26,7 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 ---
 
-Self motivation and introduction.
+Self motivation and introduction. Why I started this blog and who I am.
 
 <!--more-->
 
