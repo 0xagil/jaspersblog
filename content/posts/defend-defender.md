@@ -25,7 +25,7 @@ UseHugoToc: true
 
 Useful commands to defend Microsoft Defender
 
-<!--post-->
+<!--more-->
 
 ### Factory Reset Microsoft Defender
 
