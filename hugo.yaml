@@ -72,10 +72,11 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hey you \U0001F44B"
     Content: >
       Welcome to my blog, friends!
-      I'm Jasper Braack, a software engineer currently finishing my Bachelor. I write about bots, malware and other things.
+
+      - I'm Jasper Braack, a software engineer currently finishing my Bachelor. I write about bots, malware and other things.
     
 
   socialIcons:
