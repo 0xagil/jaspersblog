@@ -32,7 +32,7 @@ In our hyper-connected world, instant messaging apps like WhatsApp have become a
 
 As a developer and privacy advocate, I created an open-source tool called the WhatsApp Online Status Tracker. This project allows users to monitor the online/offline status of selected WhatsApp contacts in real-time. But before you get excited about the possibilities, let me be clear: the purpose of this tool is not to encourage surveillance, but to raise awareness about the surprising amount of information we unknowingly share.
 
-### Key Features of the Tracker:
+### Key Features of the Tracker
 
 - Real-time notifications when contacts come online
 - Visual timelines of online activity
